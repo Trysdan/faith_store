@@ -1,0 +1,1 @@
+# services/__init__.py - Paquete de servicios y reglas de negocio
